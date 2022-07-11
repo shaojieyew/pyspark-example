@@ -1,2 +1,1 @@
-# pyspark-example
-spark notes
+This is an introduction of Spark using Pyspark
